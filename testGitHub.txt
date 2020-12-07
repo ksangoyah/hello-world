@@ -1,0 +1,8 @@
+<ul>
+	<li>Amérique</li>
+	<li>Afrique</li>
+	<li>Europe</li>
+	<li>Asie</li>
+	<li>Oceanie</li>
+	<li>Don't know</li>
+</ul>
